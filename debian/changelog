@@ -1,0 +1,31 @@
+ros-indigo-ursa-driver (0.1.1-0saucy) saucy; urgency=high
+
+  * 0.1.1 <https://github.com/mars-uoit/URSAII-Driver/compare/0.1.0...0.1.1> Diff
+  * Changelog fixes.
+  * Added frame to publisher
+  * Added Travis CI and roslaunch check.
+  * Fixed changelog for github
+  * fixed README.md
+  * Contributors: Mike Hosmar, Tony Baltovski, mikehosmar
+
+ -- Mike Hosmar <michael.hosmar@uoit.net>  Sun, 26 Mar 2017 04:00:00 -0000
+
+ros-indigo-ursa-driver (0.1.0-0saucy) saucy; urgency=high
+
+  * 0.1.0 <https://github.com/mars-uoit/URSAII-Driver/compare/0.0.1...0.1.0> Diff
+  * Initial public release
+  * Finished Documentation for ursa::Interface class
+  * Contributors: mikehosmar
+
+ -- Mike Hosmar <michael.hosmar@uoit.net>  Thu, 10 Sep 2015 04:00:00 -0000
+
+ros-indigo-ursa-driver (0.0.1-0saucy) saucy; urgency=high
+
+  * 0.0.1 <https://github.com/mars-uoit/URSAII-Driver/compare/e1c2bf2...0.0.1> Diff
+  * Initial working ROS node
+  * Driver commands tested
+  * Contributors: mikehosmar
+
+ -- Mike Hosmar <michael.hosmar@uoit.net>  Mon, 17 Aug 2015 04:00:00 -0000
+
+
