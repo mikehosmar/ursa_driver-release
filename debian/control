@@ -1,0 +1,12 @@
+Source: ros-indigo-ursa-driver
+Section: misc
+Priority: extra
+Maintainer: Mike Hosmar <michael.hosmar@uoit.net>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-roscpp, ros-indigo-roslaunch, ros-indigo-serial, ros-indigo-std-msgs, ros-indigo-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-ursa-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-indigo-message-runtime, ros-indigo-roscpp, ros-indigo-serial, ros-indigo-std-msgs, ros-indigo-std-srvs
+Description: ros package and c++ library to interface with the URSAII MCA
